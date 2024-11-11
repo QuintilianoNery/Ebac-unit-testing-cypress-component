@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+Access the folder 'Ebac-unit-testing-cypress-component'
+
 ```bash
 npm run dev
 # or
